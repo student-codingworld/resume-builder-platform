@@ -1,5 +1,9 @@
 # Professional Resume Builder
 
+<img width="1904" height="766" alt="Screenshot 2026-01-02 045120" src="https://github.com/user-attachments/assets/26c7149f-c059-46a3-b13a-df7b3c321d7d" />
+
+<img width="1892" height="884" alt="Screenshot 2026-01-02 045134" src="https://github.com/user-attachments/assets/74d9a870-1a8b-4286-a636-f8022c522c53" />
+
 A full-stack web application to generate professional, ATS-friendly PDF resumes. The application features a dynamic React frontend for easy data entry and a Django backend powered by ReportLab for precision PDF generation.
 
 ## 🚀 Features
@@ -105,7 +109,12 @@ resume/
 └── frontend/
     ├── src/
     │   ├── components/ # ResumeForm.jsx
-    │   ├── App.js
+    │   ├── App.js  
+
     │   └── App.css     # Styling
     └── public/
 ```
+
+ <img width="733" height="835" alt="Screenshot 2026-01-02 045357" src="https://github.com/user-attachments/assets/24ba31f1-8895-4040-888b-e366e03f2995" />
+
+
