@@ -109,7 +109,12 @@ resume/
 └── frontend/
     ├── src/
     │   ├── components/ # ResumeForm.jsx
-    │   ├── App.js
+    │   ├── App.js  
+
     │   └── App.css     # Styling
     └── public/
 ```
+
+ <img width="733" height="835" alt="Screenshot 2026-01-02 045357" src="https://github.com/user-attachments/assets/24ba31f1-8895-4040-888b-e366e03f2995" />
+
+
